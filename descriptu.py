@@ -33,4 +33,4 @@ def descriptografar_pasta(caminho_pasta, senha):
 if __name__ == "__main__":
     pasta = input("Digite o caminho da pasta a ser descriptografada: ")
     senha = input("Digite a senha para descriptografia: ")
-    descriptografar_pasta(pasta, senha)
+    descriptografar_pasta(pasta, senha) # Chama a função para descriptografar a pasta

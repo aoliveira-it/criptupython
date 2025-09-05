@@ -33,4 +33,4 @@ if __name__ == "__main__":
      
     pasta = input("Digite o caminho da pasta a ser criptografada: ") #
     senha = input("Digite a senha para criptografia: ")
-    criptografar_pasta(pasta, senha)
+    criptografar_pasta(pasta, senha) # Chama a função para criptografar a pasta
